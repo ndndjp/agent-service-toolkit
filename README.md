@@ -221,3 +221,14 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+## tkim
+
+```bash
+pip install duckduckgo-search
+pip install .[dependencies]
+pip install .[dev]
+pip install .[client]
+cp .env.example .env
+code .env
+```
